@@ -1,6 +1,5 @@
 {
     "name": "timedoor/xendit-php",
-    "version": "1.0.0",
     "description": "Xendit PHP SDK",
     "keywords": [
         "openapitools",
